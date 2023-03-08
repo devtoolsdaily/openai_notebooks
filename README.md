@@ -9,3 +9,4 @@ test
 test2
 
 * bullet point
+* bullet 2
